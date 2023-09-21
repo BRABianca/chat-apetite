@@ -1,0 +1,16 @@
+{
+  "name": "chat-appetite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apptite.js",
+  "scripts": {
+    "start": "node ./src/apptite.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.28.0",
+    "firebase-admin": "^11.10.1"
+  }
+}
